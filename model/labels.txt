@@ -1,4 +1,2 @@
-0 Pintura
-1 No pintura
-2 No pintura luminosa
-3 Pintura sin luz
+0 Class 5
+1 Class 6
